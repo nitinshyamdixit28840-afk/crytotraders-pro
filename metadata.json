@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Trader Pro",
+  "description": "A PC-based application that simulates cryptocurrency trading in a gamified environment, combining real-time data with a virtual trading system. Users can learn trading strategies risk-free using virtual currency.",
+  "requestFramePermissions": []
+}
